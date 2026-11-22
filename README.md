@@ -1,0 +1,1 @@
+# OpenCLIP-NumPy-Image-Encoder
